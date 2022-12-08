@@ -1,0 +1,204 @@
+{"autos":[
+    {
+        "id": 1,
+        "modelo": "Ibiza Coupe",
+        "year": "2012",
+        "categoria": "Automovil",
+        "descripcion": "El SEAT Ibiza SportCoupé FR 2.0 TDI CR 143 CV DPF (2010-2012) tiene un motor gasóleo de 1968 cc con 4 cilindros ubicados en línea que alcanza una potencia máxima de 143 CV a 4200 rpm y par máximo de 320 nm a 1750-2500 rpm. Se trata por consiguiente de una mecánica con una potencia máxima de 143 CV, con nutrición geometría variable.",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Standard 5 velocidades.",
+        "precio": 125000,
+        "marca": "Seat",
+        "colores": "Negro.",
+        "imagen": "Images/Ibiza.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"125000.00"
+        }
+
+    },
+    {
+        "id": 2,
+        "modelo": "Mazda 3",
+        "year": "2015",
+        "categoria": "Automovil",
+        "descripcion": "El Mazda 3 es uno de los favoritos de Autocosmos, ya que conjuga la funcionalidad de un vehículo utilitario con el aspecto deportivo y el espíritu fresco que ha sabido Mazda imprimirle a cada uno de sus productos, sea cual fuere el segmento, la versión de gama media ya es bien conocida por nosotros",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Standard 6 velocidades.",
+        "precio": 205000,
+        "marca": "Mazda",
+        "colores": "Gris.",
+        "imagen": "Images/Mazda3.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"205000.00"
+        }
+    },
+    {
+        "id": 3,
+        "modelo": "Accord",
+        "year": "2013",
+        "categoria": "Automovil",
+        "descripcion": "El Accord Sedán tienen una caja de transmisión variable continua, un motor Earth Dreams cuatro cilindros de 2.4L, el cual le otorga 185 Hp y 177 Lb-pie de torque máximo. ",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Automatico.",
+        "colores": "Blanco.",
+        "precio": 205000,
+        "marca": "Honda",
+        "imagen": "Images/Accord.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"205000.00"
+        }
+    },
+    {
+        "id": 4,
+        "modelo": "Sentra",
+        "year": "2012",
+        "categoria": "Automovil",
+        "descripcion": "Nissan Sentra 2012 se pone al día y se convierte en la opción perfecta, competitiva y completa de su categoría, que se complementa con atractivos precios.",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Standard 6 velocidades.",
+        "colores": "Rojo.",
+        "precio": 105000,
+        "marca": "Nissan",
+        "imagen": "Images/Sentra.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"105000.00"
+        }
+    },
+    {
+        "id": 5,
+        "modelo": "Saab 9-3",
+        "year": "2005",
+        "categoria": "Automovil",
+        "descripcion": "El Saab 9-3 es un automóvil de turismo del segmento D producido por el fabricante sueco Saab Automobile desde el año 1998. Es un cinco plazas (salvo la variante descapotable, que es de cuatro plazas) caracterizado por un diseño elegante y sobrio.",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Automatico.",
+        "colores": "Blanco.",
+        "precio": 52000,
+        "marca": "Saab",
+        "imagen": "Images/Saab.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"52000.00"
+        }
+    },
+    {
+        "id": 6,
+        "modelo": "Mx5",
+        "year": "2008",
+        "categoria": "Automovil",
+        "descripcion": "El Mazda MX-5 Sportive 2.0 (2008-2009) tiene un motor gasolina de 1999 cc con 4 cilindros situados en línea que alcanza una potencia máxima de 160 CV a 6700 rpm y par máximo de 188 nm a 5000 rpm. Se trata por consiguiente de una mecánica con una potencia máxima de 160 CV, con alimentación admisión variable.",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Standard 6 velocidades.",
+        "colores": "Azul.",
+        "precio": 149000,
+        "marca": "Mazda",
+        "imagen": "Images/Mx5.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"149000.00"
+        }
+    },
+    {
+        "id": 7,
+        "modelo": "Suburban",
+        "year": "2011",
+        "categoria": "Camioneta",
+        "descripcion": "El Chevrolet Suburban (LT 1500) 5.7 i V8 (352 Cv) AWD Automático del año 2011 es un modelo de coche creado por la empresa Chevrolet y pertenece a la serie Suburban que abarca coches de distintas cilindradas y años.",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Automatico.",
+        "colores": "Negro.",
+        "precio": 240000,
+        "marca": "Chevrolet",
+        "imagen": "Images/Subu.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"240000.00"
+        }
+    },
+    {
+        "id": 8,
+        "modelo": "Yaris",
+        "year": "2010",
+        "categoria": "Automovil",
+        "descripcion": "El Yaris de Toyota tiene un refinado estilo deportivo, que gracias a la tecnologí­a que equipa, se hace muy fácil manejarlo en el ámbito urbano. Viene con un motor naftero de 1.5 litros alimentado por 1497cc y cuatro cilindros.",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Standard 5 velocidades.",
+        "colores": "Gris.",
+        "precio": 110000,
+        "marca": "Toyota",
+        "imagen": "Images/Yaris.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"110000.00"
+        }
+    },
+    {
+        "id": 9,
+        "modelo": "Gol",
+        "year": "2012",
+        "categoria": "Automovil",
+        "descripcion": "El Volkswagen Gol Hatchback 2012 se ofrece con un motor de cuatro cilindros de 1.6 litros. 8 válvulas SOHC con inyección electrónica multipunto.",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Standard 5 velocidades.",
+        "colores": "Blanco.",
+        "precio": 95000,
+        "marca": "Volkswagen",
+        "imagen": "Images/Gol.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"95000.00"
+        }
+    },
+    {
+        "id": 10,
+        "modelo": "Swift",
+        "year": "2012",
+        "categoria": "Automovil",
+        "descripcion": "El vehículo más carismático y exitoso de Suzuki en nuestro país se ha renovado por completo (aunque no lo parezca) y aunque para muchos el Swift no sea otra cosa que una copia del MINI Cooper, este vehículo japonés presenta en su nueva generación un habitáculo más espacioso y sustancialmente mejor logrado, así como un desempeño decoroso y un nivel de equipamiento excelente, lo que le coloca en una posición sumamente interesante en su segmento, sobre todo si revisamos el buen nivel de precio que tiene.",
+        "longitud": "4,46 m." ,
+        "altura": "1,45 m." ,
+        "anchura": "2,05 m.",
+        "potencia":"155 Hp.",
+        "transmision":"Standard 5 velocidades.",
+        "colores": "Rojo.",
+        "precio": 120000,
+        "marca": "Suzuki",
+        "imagen": "Images/Swift.jpg",
+        "unit_amount":{
+            "currency_code":"USD",
+            "value":"120000.00"
+        }
+    }
+]
+}
