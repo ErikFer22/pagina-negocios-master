@@ -1,0 +1,6 @@
+.text-area-border{        
+    padding: 1px;
+    border-radius: 2px;
+    outline: #000000 solid;
+    font-size: 16px;
+}
