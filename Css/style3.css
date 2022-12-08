@@ -1,0 +1,23 @@
+.buttonSeeProducts {
+    padding: 10px; 
+    background-color: #57cae7;
+    color: #0a0a0a;
+    text-decoration: none;
+    border-radius: 15px;
+  }
+  
+  .buttonAdd {
+    padding: 10px; 
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+  }
+  
+  .buttonDelete {
+    padding: 10px; 
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+  }
